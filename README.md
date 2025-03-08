@@ -1,1 +1,1 @@
-# praktikum-web-faris
+# praktikum-1
